@@ -1,0 +1,153 @@
+ls
+whoami
+pwd
+echo "hola"
+help
+ḿan
+man ls
+cd repogit$
+cd repogit
+ls
+git clone gh repo clone EvelynEduards/repo
+ls
+git clone 
+git clone https://github.com/EvelynEduards/repo.git
+ls
+cd repo.git
+ls
+git clone https://github.com/EvelynEduards/repo.git
+cd .
+cd repo
+ls
+history
+history > historial.txt
+ls
+cat
+cat historial.txt
+git status
+git add .
+git status
+commit -m "Mi primer commit en esta materia"
+git push
+CLEAN
+clean
+vagrant halt
+exit
+logoaut
+exit
+vagrant halt
+exit
+pwd
+ls
+cd repogit
+pqd
+pwd
+ls
+cd ..
+ssh-keygen -t ed25519
+ls -l
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub
+cd ..
+ls -l
+cd repogit
+ls -l
+rm -repo/
+rm -repo
+ls -l
+repogit
+cd repogit
+ls -l
+sudo rm -r repo/
+ls -l
+pwd
+git clone git@github.com:EvelynEduards/repo.git
+ls
+cd repo/
+echo "hola" > hola.txt
+ls
+git status
+git add .
+git status
+git commit -n "archivo hola para la materia arquitectura"
+git commit -n "primer comit"
+git commit -m "hola"
+git config --global usar.email "evelyneduards26@gmail.com"
+git config --global user.name "EvelynEduards"
+git commit -m "hola"
+git add .
+git commit -m "hola"
+git push
+cat /etc/passwd
+head /etc /passwd
+head /etc/passwd
+grep bash /etc/passwd
+exit
+hostname
+exit
+cd
+cd home
+cd repogit
+git clone git@github.com:EvelynEduards/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man prep
+man grep
+grepHOME_URL/etc/os-release
+grephome_url /etc/os-release
+man grep
+grep -i HOME_URL /etc/os-release
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+whiami
+whoami
+echo“Usuario=$(whoami)”>datos_usuario.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git commit -m "ADD:agregado1erejercicio sobredatos_usuarios.txt"
+git config --global user.name "EvelynEduards"
+git commit -m "ADD:agregado1erejercicio sobredatos_usuarios.txt"
+git status
+git push
+git status
+grep "model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n 1
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git config --global user.name "Evelyn"
+git config --global user.email "evelyneduards26@gmail.com"
+git commit -m "feat: Añadiendo información de CPU"
+git config --global user.name "EvelynEduards"
+git commit -m "feat: Añadiendo información de CPU"
+grep -v "nologin" /etc/passwd
+grep -v "nologin" /etc/passwd | head -n 10
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada
+cat lista_ordenada
+git add lista_ordenada
+git commit -m "ADD: Listado de usuarios ordenada"
+echo "Comando: tcpdump" > comando_dump_net
+echo "Para buscar: man tcpdump" >> comando_dump_net
+git add comando_dump_net
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+cat << EOF > README.md
+Alumno: Evelyn
+División: <Tu-División>
+Turno: <Turno>
+EOF
+
+cat << EOF > README.md
+Alumno: Evelyn
+División: 311
+Turno: Noche
+EOF
+
+git add README.md
+git commit -m "docs: Agregando información del alumno al README"
+history -a
